@@ -1,0 +1,500 @@
+1|Trypoxylus dichotomus|獨角仙 (雙叉犀金龜)
+2|Dorcus titanus sika|台灣扁鍬形蟲
+3|Extatosoma tiaratum|幽靈竹節蟲
+4|Hymenopus coronatus|蘭花螳螂
+5|Porcellio laevis 'Dairy Cow'|大麥町鼠婦 (奶牛等足蟲)
+6|Dynastes hercules|長戟大兜蟲
+7|Hierodula patellifera|寬腹螳螂
+8|Gromphadorhina portentosa|馬達加斯加發聲蟑螂
+9|Phalacrognathus muelleri|彩虹鍬形蟲
+10|Chalcosoma chiron|南洋大兜蟲 (高加索)
+11|Dicronorhina derbyana|白條綠花金龜
+12|Sipyloidea sipylus|棉桿竹節蟲
+13|Deroplatys desiccata|枯葉螳螂
+14|Idolomantis diabolica|魔花螳螂
+15|Camponotus sp.|巨山蟻 (寵物螞蟻)
+16|Armadillidium maculatum|斑馬鼠婦
+17|Chondracris rosea|台灣大蝗
+18|Archispirostreptus gigas|非洲大馬陸
+19|Brachypelma hamorii|墨西哥紅膝頭捕鳥蛛
+20|Pandinus imperator|帝王蠍
+21|Prosopocoilus giraffa|長頸鹿鋸鍬形蟲
+22|Phyllium sp.|葉脩 (葉子蟲)
+23|Phidippus regius|佛羅里達跳蛛
+24|Pseudocreobotra wahlbergii|刺花螳螂
+25|Megasoma elephas|毛象大兜蟲
+26|Coenobita rugosus|灰白陸寄居蟹
+27|Mecynorrhina torquata|烏干達花金龜
+28|Blaptica dubia|蘇利南潛蠊 (杜比亞蟑螂)
+29|Theraphosa stirmi|亞馬遜巨人食鳥蛛
+30|Geosesarma sp.|惡魔吸血蟹
+31|Asbolus verrucosus|藍死路鐵甲蟲
+32|Phyllocrania paradoxa|幽靈螳螂
+33|Scolopendra sp.|海南巨人蜈蚣
+34|Typopeltis crucifer|台灣鞭蠍 (醋酸蟲)
+35|Peruphasma schultei|黑魔鬼竹節蟲
+36|Pachnoda marginata|太陽花金龜
+37|Megasoma actaeon|亞克提恩大兜蟲
+38|Pterinochilus murinus|烈陽巴布蜘蛛 (OBT)
+39|Damon diadema|斑尾鞭蠍 (無鞭蠍)
+40|Dorcus hopei|中/日大鍬形蟲
+41|Cubaris sp. 'Rubber Ducky'|小鴨等足蟲
+42|Caribena versicolor|油彩粉紅趾蜘蛛
+43|Heteropteryx dilatata|馬來西亞扁竹節蟲
+44|Dynastes granti|美西白兜蟲
+45|Therea petiveriana|多米諾蟑螂
+46|Rhombodera basalis|巨盾螳螂 (菱背)
+47|Macropanesthia rhinoceros|犀牛蟑螂
+48|Lucanus swinhoei|台灣深山鍬形蟲
+49|Acanthoscurria geniculata|巴西白膝頭蜘蛛
+50|Goliathus goliathus|大王花金龜
+51|Dorcus titanus yasuokai|蘇門答臘巨扁鍬形蟲
+52|Pseudoglomeris magnifica|翡翠蟑螂 (帶紋)
+53|Gongylus gongylodes|小提琴螳螂
+54|Armadillidium vulgare 'Magic Potion'|魔法藥水鼠婦
+55|Xylotrupes gideon|姬兜蟲
+56|Lethocerus indicus|大田鱉 (水棲昆蟲)
+57|Hadrurus arizonensis|亞利桑那巨人金蠍
+58|Cybister chinensis|日本源氏龍蝨
+59|Papilio demoleus|無尾鳳蝶 (幼蟲)
+60|Allotopus rosenbergi|黃金鬼鍬形蟲
+61|Cyclommatus metallifer|美他利佛細身赤鍬形蟲
+62|Hexarthrius mandibularis|巨顎叉角鍬形蟲
+63|Lamprima adolphinae|印尼金鍬形蟲
+64|Pulchriphyllium giganteum|巨人葉脩
+65|Siliquofera grandis|巨型枯葉螽斯
+66|Tliltocatl albopilosus|宏都拉斯捲毛捕鳥蛛
+67|Heterometrus sp.|亞洲雨林蠍
+68|Armadillidium werneri|橙色小丑鼠婦
+69|Therea olegrandjeani|問號蟑螂
+70|Dynastes neptunus|海神大兜蟲
+71|Dynastes satanas|撒旦大兜蟲
+72|Odontolabis siva|鬼艷鍬形蟲
+73|Mesotopus tarandus|非洲大黑豔鍬形蟲
+74|Mecynorrhina polyphemus|波麗菲夢斯花金龜
+75|Eurycantha calcarata|龍蝦竹節蟲
+76|Oreophoetes peruana|秘魯蕨葉竹節蟲
+77|Chromatopelma cyaneopubescens|委內瑞拉紅綠燈 (GBB)
+78|Poecilotheria metallica|藍寶石華麗雨林
+79|Hadogenes troglodytes|扁石蠍
+80|Lucihormetica verrucosa|螢光蟑螂
+81|Elliptorhina javanica|萬聖節蟑螂
+82|Porcellio hoffmannseggii|西班牙巨人鼠婦
+83|Armadillidium klugii|蒙特內哥羅小丑鼠婦
+84|Megasoma mars|戰神大兜蟲
+85|Dynastes tityus|美東白兜蟲
+86|Laccotrephes japonensis|紅娘華 (水蠍)
+87|Mecopoda elongata|台灣騷蟴
+88|Ephestiasula pictipes|拳擊手螳螂
+89|Telodeinopus aoutii|肯亞斑馬馬陸
+90|Hierodula membranacea|綠巨螳螂
+91|Cybister limbatus|黃緣龍蝨
+92|Dorcus titanus typhon|蘇拉維西巨扁鍬形蟲
+93|Brachypelma boehmei|墨西哥火腳捕鳥蛛
+94|Pelinobius muticus|皇帝巴布蜘蛛
+95|Hapalopus sp. Colombia|哥倫比亞南瓜捕鳥蛛
+96|Panchlora nivea|香蕉蟑螂
+97|Opisthoplatia orientalis|東方水蠊
+98|Avicularia avicularia|蓋亞那粉紅趾
+99|Deroplatys truncata|巨人枯葉螳螂
+100|Heterometrus spinifer|馬來西亞雨林蠍
+101|Grammostola pulchra|巴西黑捕鳥蛛
+102|Monocentropus balfouri|索科特拉藍巴布
+103|Eupatorus gracilicornis|五角大兜蟲
+104|Cubaris sp. 'Panda King'|熊貓王鼠婦
+105|Platymeris biguttatus|白斑刺椿象
+106|Tonkinbolus dollfusii|彩虹千足蟲 (馬陸)
+107|Coenobita perlatus|草莓寄居蟹
+108|Archimandrita tessellata|巨人胡椒蟑螂
+109|Propomacrus bimucronatus|土耳其長臂金龜
+110|Phyllium philippinicum|菲律賓葉脩
+111|Psalmopoeus irminia|千里達老虎尾蜘蛛
+112|Lasiodora parahybana|巴西鮭魚粉捕鳥蛛
+113|Rhaetulus crenatus|鹿角鍬形蟲
+114|Eublaberus posticus|橙頭蟑螂
+115|Geosesarma sp. 'Red Tomato'|紅番茄蟹
+116|Lissachatina fulica 'White Jade'|白玉蝸牛
+117|Cristarmadillidium muricatum|刺蝟鼠婦
+118|Achrioptera manga|紅翼青龍竹節蟲
+119|Chalcosoma moellenkampi|毛倫坎普大兜蟲
+120|Creobroter gemmatus|麗眼斑螳螂
+121|Hexarthrius parryi|派瑞叉角鍬形蟲
+122|Brachypelma albiceps|墨西哥金背紅尾捕鳥蛛
+123|Scolopendra galapagoensis|加拉巴哥巨人蜈蚣
+124|Xenesthis immanis|哥倫比亞雷射大蘭多
+125|Prosopocoilus inclinatus|黃紋鋸鍬形蟲
+126|Androctonus australis|北非肥尾蠍
+127|Hierodula majuscula|澳洲寬腹螳螂
+128|Cubaris sp. 'Papaya'|木瓜鼠婦
+129|Parabuthus transvaalicus|黑粗尾蠍
+130|Panchlora sp. 'Giant'|綠香蕉蟑螂
+131|Poecilotheria regalis|印度華麗雨林
+132|Scolopendra subspinipes|少棘蜈蚣
+133|Gromphadorhina grandidieri|虎紋發聲蟑螂
+134|Parasphendale agrionina|芽翅螳螂
+135|Neolucanus swinhoei|紅圓翅鍬形蟲
+136|Prosopocoilus confucius|孔夫子鋸鍬形蟲
+137|Diapherodes gigantea|綠巨竹節蟲
+138|Cheirotonus davidi|大衛長臂金龜
+139|Neoholothele incei|千里達橄欖金捕鳥蛛
+140|Dorcus antaeus|安達祐實大鍬形蟲
+141|Sungaya inexpectata|菲律賓小刺竹節蟲
+142|Brachytrupes portentosus|台灣大蟋蟀
+143|Eupolyphaga sinensis|藥用土鱉
+144|Dynastes hyllus|希拉大兜蟲
+145|Lucanus maculifemoratus|高砂深山鍬形蟲
+146|Pandinus cavimanus|紅爪雨林蠍
+147|Xylotrupes florensis|佛羅倫斯姬兜
+148|Lucanus elaphus|麋鹿鍬形蟲
+149|Atopogonus sp.|澳洲彩虹千足蟲
+150|Onymacris unguicularis|納米比亞擬步甲 (沙漠甲蟲)
+151|Dorcus titanus palawanicus|巴拉望巨扁鍬形蟲
+152|Grammostola rosea|智利紅玫瑰蜘蛛
+153|Dicronocephalus wallichii|琴鳥花金龜
+154|Blaberus giganteus|秘魯巨人蟑螂
+155|Blaberus craniifer|偽死人頭蟑螂
+156|Leiurus quinquestriatus|以色列金蠍
+157|Psytalla horrida|東非刺客獵蝽
+158|Brachypelma emilia|墨西哥紅腳捕鳥蛛
+159|Cyriopagopus albostriatus|泰國斑馬腳蜘蛛
+160|Omothymus schioedtei|新加坡藍捕鳥蛛
+161|Cubaris sp. 'Amber'|琥珀鼠婦
+162|Cubaris sp. 'Lemon Blue'|檸檬藍鼠婦
+163|Porcellio laevis 'White'|白雪公主鼠婦
+164|Porcellio expansus|希臘巨型鼠婦
+165|Porcellio scaber 'Ghost'|幽靈鼠婦
+166|Phrynus marginemaculatus|鞭蛛 (無尾鞭蠍)
+167|Galeodes sp.|避日蛛 (風蠍)
+168|Blepharopsis mendica|魔王螳螂
+169|Popa spurca|枯枝螳螂
+170|Theopompa servillei|樹皮螳螂
+171|Odontomantis planiceps|台灣花螳螂
+172|Rhombodera megaera|綠菱背螳螂
+173|Aegus laevicollis|台灣肥角鍬形蟲
+174|Nigidionus parryi|台灣角葫蘆鍬形蟲
+175|Protaetia orientalis|綠豔白點花金龜
+176|Homoderus mellyi|螃蟹鍬形蟲
+177|Anomala expansa|台灣青銅金龜
+178|Panesthia angustipennis|台灣黑褐硬蠊
+179|Diacamma rugosum|針刺猛蟻
+180|Deinopis subrufa|妖面蛛 (撒網蜘蛛)
+181|Davus pentaloris|哥斯大黎加老虎尾
+182|Pamphobeteus antinous|玻利維亞鋼鐵藍
+183|Hysterocrates gigas|非洲紅巴布
+184|Tliltocatl vagans|墨西哥紅尾捕鳥蛛
+185|Aphonopelma chalcodes|加州地老虎 (沙漠金毛)
+186|Scorpio maurus|中東金蠍
+187|Centruroides gracilis|佛羅里達樹皮蠍
+188|Scolopendra gigantea|祕魯巨人蜈蚣
+189|Dorcus miwai|台灣深山扁鍬形蟲
+190|Dorcus carinulatus|台灣鏽鍬形蟲
+191|Prosopocoilus forficula|台灣圓翅鋸鍬形蟲
+192|Lissachatina fulica|非洲大蝸牛 (原生色)
+193|Cyriopagopus minax|泰國黑地老虎
+194|Cephonodes hylas|大透翅天蛾 (幼蟲)
+195|Neoconocephalus triops|美洲大螽斯
+196|Aquarius paludum|水黽 (水蜘蛛)
+197|Coptolabrus nankotaizanus|台灣擬食蝸步行蟲
+198|Phasma gigas|黃紋巨竹節蟲
+199|Extatosoma popa|粗腿巨竹節蟲
+200|Peruphasma marmoratum|大黑魔鬼竹節蟲
+201|Dynastes neptunus|歐貝魯斯大兜蟲
+202|Chrysochroa buqueti|蘇拉維西太陽吉丁蟲
+203|Dorcus grandis|格蘭迪鍬形蟲
+204|Creobroter gemmatus|印度花螳螂
+205|Rhombodera basalis|東亞盾螳螂
+206|Phobaeticus chani|越南巨人竹節蟲
+207|Epibolus pulchripes|紅腳巨型馬陸
+208|Porcellio haasi 'Orange'|橘色鼠婦
+209|Phidippus regius|皇家跳蛛
+210|Blaberus giganteus|哥倫比亞巨人蟑螂
+211|Dorcus schenklingi|台灣鑽紋鍬形蟲
+212|Scolopendra dehaani|安達曼巨人蜈蚣
+213|Attacus atlas|皇蛾 (幼蟲)
+214|Tropidacris collaris|巨型劍角蝗
+215|Paraphysa scrofa|智利銅蜘蛛
+216|Pamphobeteus vespertinus|厄瓜多紫捕鳥蛛
+217|Brachypelma emilia|墨西哥紅腿大蘭多
+218|Orphnaecus philippinus|菲律賓橙星捕鳥蛛
+219|Scolopendra hardwickei|印度虎斑蜈蚣
+220|Brachytrupes membranaceus|非洲巨型蟋蟀
+221|Dorcus hopei binodulosus|日本大鍬形蟲
+222|Tessaratoma papillosa|荔枝椿象
+223|Sipyloidea meneptolemus|橙翅竹節蟲
+224|Megasoma elephas|象兜蟲
+225|Blaberus craniifer|死人頭蟑螂
+226|Monocentropus balfouri|藍腳巴布蜘蛛
+227|Allomyrina dichotoma tunobosonis|台灣獨角仙 (小型)
+228|Archispirostreptus gigas|非洲巨型千足蟲
+229|Hadrurus arizonensis|亞利桑那沙漠蠍
+230|Psalmopoeus irminia|委內瑞拉太陽虎蜘蛛
+231|Dundubia manifera|翡翠蟬
+232|Acanthoscurria geniculata|巴西白膝蜘蛛
+233|Metallyticus splendidus|金屬螳螂
+234|Chrysochroa fulgidissima|彩虹吉丁蟲
+235|Scolopendra viridicornis|亞馬遜巨人蜈蚣
+236|Polyphaga saussurei|紅尾沙蟑螂
+237|Merulanella sp. 'Galaxy'|銀河鼠婦
+238|Coenobita perlatus|紅寶石寄居蟹
+239|Pandinus imperator (Xanthic)|黃化帝王蠍
+240|Hexarthrius parryi|帕里鹿角鍬形蟲
+241|Xenesthis immanis|哥倫比亞紫天鵝絨蜘蛛
+242|Cornu aspersum|地中海蝸牛
+243|Pseudoglomeris magnifica|翡翠金蟑螂
+244|Anadenobolus monilicornis|黃帶馬陸
+245|Pulchriphyllium bioculatum|枯葉蝶竹節蟲
+246|Mecynorrhina torquata|藍牙花金龜
+247|Pandinus cavimanus|坦尚尼亞紅爪蠍
+248|Sphodromantis viridis|非洲綠巨螳螂
+249|Phobaeticus serratipes|馬來西亞巨型竹節蟲
+250|Byrsotria fumigata|古巴蟑螂
+251|Goliathus goliatus|歌利亞大角花金龜
+252|Lucanus cervus|歐洲深山鍬形蟲
+253|Mantis religiosa|歐洲螳螂
+254|Goliathus orientalis|東方歌利亞花金龜
+255|Armadillidium vulgare|球鼠婦
+256|Cyclommatus metallifer|金屬細身赤鍬形蟲
+257|Phyllocrania paradoxa|幽靈螳螂
+258|Blaberus craniifer|死亡頭蟑螂
+259|Dynastes neptunus|海神大兜蟲
+260|Heteropteryx dilatata|馬來巨型竹節蟲
+261|Grammostola rosea|智利玫瑰蜘蛛
+262|Lissachatina fulica|非洲大蝸牛
+263|Lucihormetica subcincta|發光蟑螂
+264|Archispirostreptus gigas|非洲巨人馬陸
+265|Hadrurus arizonensis|亞利桑那沙漠毛蠍
+266|Allomyrina dichotoma|日本獨角仙
+267|Tenodera sinensis|中華大刀螳螂
+268|Porcellio scaber|粗糙鼠婦
+269|Megasoma elephas|象兜蟲
+270|Gongylus gongyloides|提琴螳螂
+271|Poecilotheria metallica|哥德堡藍寶石蜘蛛
+272|Acanthoscurria geniculata|巴西白膝蜘蛛
+273|Gyna lurida|灰瓷蟑螂
+274|Narceus americanus|北美巨馬陸
+275|Phrynus marginemaculatus|佛州鞭蛛
+276|Prosopocoilus giraffa|長頸鹿鍬形蟲
+277|Empusa fasciata|錐頭螳螂
+278|Therea petiveriana|骨牌蟑螂
+279|Chrysina resplendens|黃金龜甲蟲
+280|Carausius morosus|印度竹節蟲
+281|Hottentotta tamulus|印度紅蠍
+282|Mecynorrhina polyphemus|波利菲莫斯大花金龜
+283|Rhombodera basalis|盾螳螂
+284|Cubaris sp. 'Rubber Ducky'|橡皮球鼠婦
+285|Megasoma actaeon|阿克提恩象兜蟲
+286|Aretaon asperrimus|刺竹節蟲
+287|Brachypelma hamorii|墨西哥紅膝蜘蛛
+288|Acheta domesticus|家蟋蟀
+289|Panchlora nivea|古巴綠蟑螂
+290|Trigoniulus corallinus|珊瑚紅馬陸
+291|Damon diadema|坦尚尼亞巨型鞭蛛
+292|Odontolabis cuvera|鬼艷鍬形蟲
+293|Creobroter meleagris|印度花螳螂
+294|Heteropoda venatoria|白額高腳蛛
+295|Eurycantha calcarata|新幾內亞戟竹節蟲
+296|Scolopendra subspinipes|少棘蜈蚣
+297|Chelorrhina polyphemus|獨角花金龜
+298|Tramea lacerata|黑翅蜻蜓
+299|Gryllus campestris|田蟋蟀
+300|Lethocerus americanus|大田鱉
+301|Dynastes hercules lichyi|安達森大兜蟲
+302|Uropygi|亮紅蛛蠍
+303|Phalacrognathus muelleri|彩虹鍬形蟲
+304|Grammostola pulchripes|巴西巨人金色膝蜘蛛
+305|Hymenopus coronatus|蘭花螳螂
+306|Cyriopagopus albostriatus|泰國斑馬腳捕鳥蛛
+307|Scolopendra gigantea|秘魯巨型蜈蚣
+308|Pseudoglomeris magnifica|雙帶翡翠蟑螂
+309|Pandinus imperator|非洲帝王蠍
+310|Chrysina gloriosa|寶石金龜子
+311|Petasida ephippigera|澳洲棘蝗
+312|Grammostola pulchra|巴西黑絲絨蜘蛛
+313|Hierodula patellifera|台灣寬腹螳螂
+314|Tliltocatl vagans|墨西哥紅尾蜘蛛
+315|Dorcus titanus sika|台灣扁鍬形蟲
+316|Greta oto|透翅蝶
+317|Gyna caffrorum|金背蟑螂
+318|Macrobrachium carcinus|紅螯螳臂蝦
+319|Lycia hirtaria|巨型尺蠖蛾
+320|Aphonopelma seemanni|哥斯大黎加條紋膝蜘蛛
+321|Allomyrina dichotoma|雙叉犀金龜
+322|Creobroter gemmatus|紅蜘蛛百合螳螂
+323|Panchlora nivea|綠色香蕉蟑螂
+324|Chrysiridia rhipheus|馬達加斯加日落蛾
+325|Nephila inaurata|塞席爾棕櫚蛛
+326|Ampulex compressa|翠綠寶石蜂
+327|Epibolus pulchripes|東非巨型千足蟲
+328|Cordylochernes scorpioides|藍色死亡偽蠍
+329|Phoneutria nigriventer|巴西漫遊蜘蛛
+330|Sternotomis bohemani|綠翡翠天牛
+331|Pachyrhynchus orbifer|奇異球背象鼻蟲
+332|Chilobrachys fimbriatus|印度紫老虎蜘蛛
+333|Baculum extradentatum|越南巨人竹節蟲
+334|Scolopendra cingulata|藍寶石蜈蚣
+335|Saga pedo|巨型螽斯
+336|Lamprima adolphinae|藍死亡鍬形蟲
+337|Orthoporus ornatus|南美巨人馬陸
+338|Scolopendra polymorpha|紅腿蜈蚣
+339|Maratus volans|孔雀蜘蛛
+340|Haementeria ghilianii|巨型水蛭
+341|Porcellio laevis 'Dairy Cow'|雪白鼠婦
+342|Papilio paris|琉璃鳳蝶幼蟲
+343|Argyroneta aquatica|巨型水蜘蛛
+344|Idolomantis diabolica|紅色妖姬螳螂
+345|Extatosoma tiaratum|澳洲尖刺竹節蟲
+346|Tityus serrulatus|紅色魔蠍
+347|Zopherus nodulosus haldemani|鐵甲蟲
+348|Limax cinereoniger|巨型蛞蝓
+349|Tettigonia viridissima|綠色螽斯
+350|Trypoxylus dichotomus|紅牛角大兜蟲
+351|Ampulex compressa|綠寶石蟑螂蜂
+352|Chrysochroa fulminans|彩虹吉丁蟲
+353|Gigantometra gigas|巨型水黽
+354|Eublaberus distanti|銀背蟑螂
+355|Scolopendra heros|紅腳巨人蜈蚣
+356|Dynastes granti|金色獨角仙
+357|Phyllium giganteum|巨型葉蟲
+358|Centruroides vittatus|紫光蠍
+359|Phalacrognathus muelleri|澳洲彩虹鍬形蟲
+360|Grammostola rosea|玫瑰金蜘蛛
+361|Goliathus goliatus|大王花金龜
+362|Arachnacris corporalis|馬來西亞巨型螽斯
+363|Torynorrhina flammea|紅寶石甲蟲
+364|Odontomantis planiceps|螞蟻螳螂
+365|Gromphadorhina portentosa|藍舌蜥守宮蟑螂
+366|Cicindela campestris|虎甲蟲
+367|Brachypelma hamorii|墨西哥紅膝蜘蛛
+368|Dundubia manifera|翡翠蟬
+369|Sasakia charonda|大紫蛺蝶
+370|Nicrophorus vespilloides|藍色死亡腐屍甲蟲
+371|Charidotella sexpunctata|金色龜甲蟲
+372|Phobaeticus chani|巨型竹節蟲
+373|Latrodectus hasselti|紅背蜘蛛
+374|Calidea dregii|彩色盾椿象
+375|Acanthoscurria geniculata|巴西白膝蜘蛛
+376|Dendrobates tinctorius azureus|藍色箭毒蛙
+377|Prosopocoilus giraffa|長頸鹿鍬形蟲
+378|Selenops radiatus|巨型扁蛛
+379|Oedipoda germanica|紅翅蝗
+380|Dorcus hopei binodulosus|日本大鍬形蟲
+381|Lampyris noctiluca|螢火蟲
+382|Dactylotum bicolor|彩色蚱蜢
+383|Atta cephalotes|巨型蟻后
+384|Hapalochlaena lunulata|藍環章魚
+385|Tropidacris cristata|巨型蝗蟲
+386|Actias luna|綠色長尾蠶蛾
+387|Achatina fulica|非洲巨人蝸牛
+388|Zophobas morio|橡皮蟲
+389|Eupoecila australasiae|澳洲寶石金龜
+390|Opistophthalmus carinatus|紅翅黑蠍
+391|Ornithoptera priamus|綠翅鳳蝶
+392|Heliocopris dominus|巨型蜣螂
+393|Thyropygus pachyurus|亞洲巨型馬陸
+394|Sympetrum fonscolombii|紅脈蜻蜓
+395|Anax imperator|巨型水蠆
+396|Umbonia crassicornis|角蟬
+397|Trombidium holosericeum|紅色天鵝絨蟎
+398|Deinopis subrufa|鬼面蜘蛛
+399|Eupatorus gracilicornis|角金龜
+400|Eurycantha calcarata|巨型竹節蟲
+401|Aspidimorpha sanctaecrucis|黃金龜甲蟲
+402|Palpares libelluloides|巨型蟻獅
+403|Brachypelma vagans|紅尾蜘蛛
+404|Haaniella dehaanii|大力士竹節蟲
+405|Pandinus cavimanus|紫色帝王蠍
+406|Allomyrina dichotoma|雙叉犀金龜
+407|Chrysis ignita|翠綠寶石蜂
+408|Hierodula membranacea|寬腹螳螂
+409|Pseudophyllus titan|蘭嶼大葉螽蟴
+410|Latrodectus mactans|黑寡婦蜘蛛
+411|Rosenbergia megalocephala|尤加利天牛
+412|Vanessa atalanta|紅斑蛺蝶
+413|Lethocerus grandis|巨型水蟲
+414|Deilephila elpenor|彩色天蛾
+415|Annam stick insect|巨型竹節蟲（安南）
+416|Chrysolina cerealis|金花蟲
+417|Tabanus sudeticus|巨型馬蠅
+418|Cheirotonus jambar|日本長臂金龜
+419|Sphodromantis lineola|雙紋螳螂
+420|Grammostola pulchra|金毛狼蛛
+421|Curculio nucum|象鼻蟲
+422|Blaberus giganteus|南美巨蟑
+423|Ornithoptera paradisea|天堂鳥翼蝶
+424|Carabus coriaceus|巨型步行蟲
+425|Avicularia avicularia|粉紅腳蜘蛛
+426|Euploea core|紫斑蝶
+427|Belostoma grande|巨型蝽
+428|Papilio polytes|玉帶鳳蝶
+429|Heterometrus longimanus|黑森林蠍
+430|Attacus atlas|赤道飛蛾
+431|Pepsis grossa|蜈蚣獵蜂
+432|Coccinella septempunctata|七星瓢蟲
+433|Kallima inachus|枯葉蝶
+434|Megascolides australis|巨型蚯蚓
+435|Pseudocreobotra wahlbergii|花螳螂
+436|Chrysina resplendens|鐵甲蟲金色型
+437|Extatosoma tiaratum|竹節蟲幽靈
+438|Hottentotta tamulus|紅魔蠍
+439|Dorcus titanus platymelus|扁鍬形蟲
+440|Bathynomus giganteus|大王具足蟲
+441|Armadillidium vulgare|巨型木蝨
+442|Eulaema meriana|蘭花蜂
+443|Heteropoda venatoria|白額高腳蛛
+444|Jumnos ruckeri|綠翡翠金龜
+445|Macrocheira kaempferi|巨型蜘蛛蟹
+446|Chrysolina fastuosa|彩色金花蟲
+447|Kaniska canace|琉璃蛺蝶
+448|Androctonus australis|巨型沙蠍
+449|Cethosia biblis|紅脈蛺蝶
+450|Blaberus craniifer|巨型蟑螂（死人頭）
+451|Danaus plexippus|帝王斑蝶
+452|Solenopsis invicta|紅火蟻
+453|Limax maximus|巨型蛞蝓
+454|Lamprima latreillii|翠綠鍬形蟲
+455|Sesia apiformis|大透翅蛾
+456|Phidippus johnsoni|赤背蠍虎蛛
+457|Vespa crabro|黃邊胡蜂
+458|Papilio maackii|大琉璃紋鳳蝶
+459|Stenopelmatus fuscus|巨型蟻蟀
+460|Sipyloidea sipylus|紅翅膀竹節蟲
+461|Scolopendra subaquatica|巨型水蜈蚣
+462|Automeris io|刺蝟毛蟲
+463|Plusiotis gloriosa|金甲蟲
+464|Crocothemis erythraea|紅蜻蜓
+465|Dasymutilla occidentalis|黑天鵝絨蟻蜂
+466|Thwaitesia argentiopunctata|鏡子蜘蛛
+467|Sasakia charonda larva|大紫蛺蝶幼蟲
+468|Odontodactylus scyllarus|彩虹蝦蛄
+469|Megapomponia imperatoria|巨型蟬
+470|Nephila pilipes|大木林蜘蛛
+471|Schistocerca gregaria|沙漠蝗蟲
+472|Cicindela sexguttata|虎甲蟲（六星）
+473|Dynastes hercules hercules|巨型長戟大兜蟲
+474|Poecilotheria metallica|華麗雨林蛛
+475|Papilio bianor|翠鳳蝶
+476|Hirudo medicinalis|巨型水蛭
+477|Carabus auratus|黃金步行蟲
+478|Philanthus triangulum|蒼蠅獵人蜂
+479|Tipula maxima|大蚊
+480|Vespa simillima|黃腹胡蜂
+481|Oecanthus fultoni|藍翅蟋蟀
+482|Mecynorrhina torquata|綠翅金龜
+483|Centruroides sculpturatus|墨西哥金蠍
+484|Carausius morosus|巨型竹節蟲（印度）
+485|Dorcus alcides|黑金剛鍬形蟲
+486|Polistes canadensis|紅色長腳蜂
+487|Graphium sarpedon|青帶鳳蝶
+488|Copiopteryx semiramis|巨型蛙口蛾
+489|Megophrys nasuta|印尼角蛙
+490|Eunica alpais|黑紫蛺蝶
+491|Steatoda nobilis|圓胸肥蛛
+492|Sternotomis virescens|銅色綠天牛
+493|Pheidole megacephala|大頭蟻
+494|Papilio cresphontes|寬尾燕蝶
+495|Opisthacanthus rugiceps|巨型黑蠍
+496|Cassida viridis|蘭嶼角鼻龜甲蟲
+497|Chrysina beyeri|金龜子（彩虹）
+498|Antherea polyphemus|天蠶蛾
+499|Cephalotes atratus|烏龜蟻
+500|Morpho menelaus|閃蝶

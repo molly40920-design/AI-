@@ -1,87 +1,277 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta charset="UTF-8">
-<title>昆蟲圖片驗證 1-50</title>
-<style>
-body { font-family: sans-serif; background: #f0f0f0; padding: 20px; }
-.grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 15px; }
-.card { background: white; border-radius: 8px; padding: 10px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-.card img { width: 100%; height: 200px; object-fit: cover; border-radius: 4px; }
-.card h3 { font-size: 13px; margin: 8px 0 2px; color: #333; }
-.card p { font-size: 11px; color: #666; margin: 2px 0; }
-.card .id { font-weight: bold; color: #e74c3c; font-size: 16px; }
-</style>
+    <meta charset="UTF-8">
+    <title>昆蟲圖片驗證 1-50</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background: #f0f0f0;
+            padding: 20px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 15px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 8px;
+            padding: 10px;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 4px;
+        }
+
+        .card h3 {
+            font-size: 13px;
+            margin: 8px 0 2px;
+            color: #333;
+        }
+
+        .card p {
+            font-size: 11px;
+            color: #666;
+            margin: 2px 0;
+        }
+
+        .card .id {
+            font-weight: bold;
+            color: #e74c3c;
+            font-size: 16px;
+        }
+    </style>
 </head>
+
 <body>
-<h1>昆蟲圖片驗證 (1-10)</h1>
-<div class="grid">
-<div class="card"><span class="id">#1</span><img src="data/images/unique_1.jpg"><h3>獨角仙 (雙叉犀金龜)</h3><p>Trypoxylus dichotomus</p></div>
-<div class="card"><span class="id">#2</span><img src="data/images/unique_2.jpg"><h3>台灣扁鍬形蟲</h3><p>Dorcus titanus sika</p></div>
-<div class="card"><span class="id">#3</span><img src="data/images/unique_3.jpg"><h3>幽靈竹節蟲</h3><p>Extatosoma tiaratum</p></div>
-<div class="card"><span class="id">#4</span><img src="data/images/unique_4.jpg"><h3>蘭花螳螂</h3><p>Hymenopus coronatus</p></div>
-<div class="card"><span class="id">#5</span><img src="data/images/unique_5.jpg"><h3>大麥町鼠婦</h3><p>Porcellio laevis 'Dairy Cow'</p></div>
-<div class="card"><span class="id">#6</span><img src="data/images/unique_6.jpg"><h3>長戟大兜蟲</h3><p>Dynastes hercules</p></div>
-<div class="card"><span class="id">#7</span><img src="data/images/unique_7.jpg"><h3>寬腹螳螂</h3><p>Hierodula patellifera</p></div>
-<div class="card"><span class="id">#8</span><img src="data/images/unique_8.jpg"><h3>馬達加斯加發聲蟑螂</h3><p>Gromphadorhina portentosa</p></div>
-<div class="card"><span class="id">#9</span><img src="data/images/unique_9.jpg"><h3>彩虹鍬形蟲</h3><p>Phalacrognathus muelleri</p></div>
-<div class="card"><span class="id">#10</span><img src="data/images/unique_10.jpg"><h3>南洋大兜蟲 (高加索)</h3><p>Chalcosoma chiron</p></div>
-</div>
+    <h1>昆蟲圖片驗證 (1-10)</h1>
+    <div class="grid">
+        <div class="card"><span class="id">#1</span><img src="data/images/unique_1.jpg">
+            <h3>獨角仙 (雙叉犀金龜)</h3>
+            <p>Trypoxylus dichotomus</p>
+        </div>
+        <div class="card"><span class="id">#2</span><img src="data/images/unique_2.jpg">
+            <h3>台灣扁鍬形蟲</h3>
+            <p>Dorcus titanus sika</p>
+        </div>
+        <div class="card"><span class="id">#3</span><img src="data/images/unique_3.jpg">
+            <h3>幽靈竹節蟲</h3>
+            <p>Extatosoma tiaratum</p>
+        </div>
+        <div class="card"><span class="id">#4</span><img src="data/images/unique_4.jpg">
+            <h3>蘭花螳螂</h3>
+            <p>Hymenopus coronatus</p>
+        </div>
+        <div class="card"><span class="id">#5</span><img src="data/images/unique_5.jpg">
+            <h3>大麥町鼠婦</h3>
+            <p>Porcellio laevis 'Dairy Cow'</p>
+        </div>
+        <div class="card"><span class="id">#6</span><img src="data/images/unique_6.jpg">
+            <h3>長戟大兜蟲</h3>
+            <p>Dynastes hercules</p>
+        </div>
+        <div class="card"><span class="id">#7</span><img src="data/images/unique_7.jpg">
+            <h3>寬腹螳螂</h3>
+            <p>Hierodula patellifera</p>
+        </div>
+        <div class="card"><span class="id">#8</span><img src="data/images/unique_8.jpg">
+            <h3>馬達加斯加發聲蟑螂</h3>
+            <p>Gromphadorhina portentosa</p>
+        </div>
+        <div class="card"><span class="id">#9</span><img src="data/images/unique_9.jpg">
+            <h3>彩虹鍬形蟲</h3>
+            <p>Phalacrognathus muelleri</p>
+        </div>
+        <div class="card"><span class="id">#10</span><img src="data/images/unique_10.jpg">
+            <h3>南洋大兜蟲 (高加索)</h3>
+            <p>Chalcosoma chiron</p>
+        </div>
+    </div>
 
-<h1>昆蟲圖片驗證 (11-20)</h1>
-<div class="grid">
-<div class="card"><span class="id">#11</span><img src="data/images/unique_11.jpg"><h3>白條綠花金龜</h3><p>Dicronorhina derbyana</p></div>
-<div class="card"><span class="id">#12</span><img src="data/images/unique_12.jpg"><h3>棉桿竹節蟲</h3><p>Sipyloidea sipylus</p></div>
-<div class="card"><span class="id">#13</span><img src="data/images/unique_13.jpg"><h3>枯葉螳螂</h3><p>Deroplatys desiccata</p></div>
-<div class="card"><span class="id">#14</span><img src="data/images/unique_14.jpg"><h3>魔花螳螂</h3><p>Idolomantis diabolica</p></div>
-<div class="card"><span class="id">#15</span><img src="data/images/unique_15.jpg"><h3>巨山蟻</h3><p>Camponotus sp.</p></div>
-<div class="card"><span class="id">#16</span><img src="data/images/unique_16.jpg"><h3>斑馬鼠婦</h3><p>Armadillidium maculatum</p></div>
-<div class="card"><span class="id">#17</span><img src="data/images/unique_17.jpg"><h3>台灣大蝗</h3><p>Chondracris rosea</p></div>
-<div class="card"><span class="id">#18</span><img src="data/images/unique_18.jpg"><h3>非洲大馬陸</h3><p>Archispirostreptus gigas</p></div>
-<div class="card"><span class="id">#19</span><img src="data/images/unique_19.jpg"><h3>墨西哥紅膝頭捕鳥蛛</h3><p>Brachypelma hamorii</p></div>
-<div class="card"><span class="id">#20</span><img src="data/images/unique_20.jpg"><h3>帝王蠍</h3><p>Pandinus imperator</p></div>
-</div>
+    <h1>昆蟲圖片驗證 (11-20)</h1>
+    <div class="grid">
+        <div class="card"><span class="id">#11</span><img src="data/images/unique_11.jpg">
+            <h3>白條綠花金龜</h3>
+            <p>Dicronorhina derbyana</p>
+        </div>
+        <div class="card"><span class="id">#12</span><img src="data/images/unique_12.jpg">
+            <h3>棉桿竹節蟲</h3>
+            <p>Sipyloidea sipylus</p>
+        </div>
+        <div class="card"><span class="id">#13</span><img src="data/images/unique_13.jpg">
+            <h3>枯葉螳螂</h3>
+            <p>Deroplatys desiccata</p>
+        </div>
+        <div class="card"><span class="id">#14</span><img src="data/images/unique_14.jpg">
+            <h3>魔花螳螂</h3>
+            <p>Idolomantis diabolica</p>
+        </div>
+        <div class="card"><span class="id">#15</span><img src="data/images/unique_15.jpg">
+            <h3>巨山蟻</h3>
+            <p>Camponotus sp.</p>
+        </div>
+        <div class="card"><span class="id">#16</span><img src="data/images/unique_16.jpg">
+            <h3>斑馬鼠婦</h3>
+            <p>Armadillidium maculatum</p>
+        </div>
+        <div class="card"><span class="id">#17</span><img src="data/images/unique_17.jpg">
+            <h3>台灣大蝗</h3>
+            <p>Chondracris rosea</p>
+        </div>
+        <div class="card"><span class="id">#18</span><img src="data/images/unique_18.jpg">
+            <h3>非洲大馬陸</h3>
+            <p>Archispirostreptus gigas</p>
+        </div>
+        <div class="card"><span class="id">#19</span><img src="data/images/unique_19.jpg">
+            <h3>墨西哥紅膝頭捕鳥蛛</h3>
+            <p>Brachypelma hamorii</p>
+        </div>
+        <div class="card"><span class="id">#20</span><img src="data/images/unique_20.jpg">
+            <h3>帝王蠍</h3>
+            <p>Pandinus imperator</p>
+        </div>
+    </div>
 
-<h1>昆蟲圖片驗證 (21-30)</h1>
-<div class="grid">
-<div class="card"><span class="id">#21</span><img src="data/images/unique_21.jpg"><h3>長頸鹿鋸鍬形蟲</h3><p>Prosopocoilus giraffa</p></div>
-<div class="card"><span class="id">#22</span><img src="data/images/unique_22.jpg"><h3>葉脩</h3><p>Phyllium sp.</p></div>
-<div class="card"><span class="id">#23</span><img src="data/images/unique_23.jpg"><h3>佛羅里達跳蛛</h3><p>Phidippus regius</p></div>
-<div class="card"><span class="id">#24</span><img src="data/images/unique_24.jpg"><h3>刺花螳螂</h3><p>Pseudocreobotra wahlbergii</p></div>
-<div class="card"><span class="id">#25</span><img src="data/images/unique_25.jpg"><h3>毛象大兜蟲</h3><p>Megasoma elephas</p></div>
-<div class="card"><span class="id">#26</span><img src="data/images/unique_26.jpg"><h3>灰白陸寄居蟹</h3><p>Coenobita rugosus</p></div>
-<div class="card"><span class="id">#27</span><img src="data/images/unique_27.jpg"><h3>烏干達花金龜</h3><p>Mecynorrhina torquata</p></div>
-<div class="card"><span class="id">#28</span><img src="data/images/unique_28.jpg"><h3>蘇利南潛蠊</h3><p>Blaptica dubia</p></div>
-<div class="card"><span class="id">#29</span><img src="data/images/unique_29.jpg"><h3>亞馬遜巨人食鳥蛛</h3><p>Theraphosa stirmi</p></div>
-<div class="card"><span class="id">#30</span><img src="data/images/unique_30.jpg"><h3>惡魔吸血蟹</h3><p>Geosesarma sp.</p></div>
-</div>
+    <h1>昆蟲圖片驗證 (21-30)</h1>
+    <div class="grid">
+        <div class="card"><span class="id">#21</span><img src="data/images/unique_21.jpg">
+            <h3>長頸鹿鋸鍬形蟲</h3>
+            <p>Prosopocoilus giraffa</p>
+        </div>
+        <div class="card"><span class="id">#22</span><img src="data/images/unique_22.jpg">
+            <h3>葉脩</h3>
+            <p>Phyllium sp.</p>
+        </div>
+        <div class="card"><span class="id">#23</span><img src="data/images/unique_23.jpg">
+            <h3>佛羅里達跳蛛</h3>
+            <p>Phidippus regius</p>
+        </div>
+        <div class="card"><span class="id">#24</span><img src="data/images/unique_24.jpg">
+            <h3>刺花螳螂</h3>
+            <p>Pseudocreobotra wahlbergii</p>
+        </div>
+        <div class="card"><span class="id">#25</span><img src="data/images/unique_25.jpg">
+            <h3>毛象大兜蟲</h3>
+            <p>Megasoma elephas</p>
+        </div>
+        <div class="card"><span class="id">#26</span><img src="data/images/unique_26.jpg">
+            <h3>灰白陸寄居蟹</h3>
+            <p>Coenobita rugosus</p>
+        </div>
+        <div class="card"><span class="id">#27</span><img src="data/images/unique_27.jpg">
+            <h3>烏干達花金龜</h3>
+            <p>Mecynorrhina torquata</p>
+        </div>
+        <div class="card"><span class="id">#28</span><img src="data/images/unique_28.jpg">
+            <h3>蘇利南潛蠊</h3>
+            <p>Blaptica dubia</p>
+        </div>
+        <div class="card"><span class="id">#29</span><img src="data/images/unique_29.jpg">
+            <h3>亞馬遜巨人食鳥蛛</h3>
+            <p>Theraphosa stirmi</p>
+        </div>
+        <div class="card"><span class="id">#30</span><img src="data/images/unique_30.jpg">
+            <h3>惡魔吸血蟹</h3>
+            <p>Geosesarma sp.</p>
+        </div>
+    </div>
 
-<h1>昆蟲圖片驗證 (31-40)</h1>
-<div class="grid">
-<div class="card"><span class="id">#31</span><img src="data/images/unique_31.jpg"><h3>藍死路鐵甲蟲</h3><p>Asbolus verrucosus</p></div>
-<div class="card"><span class="id">#32</span><img src="data/images/unique_32.jpg"><h3>幽靈螳螂</h3><p>Phyllocrania paradoxa</p></div>
-<div class="card"><span class="id">#33</span><img src="data/images/unique_33.jpg"><h3>海南巨人蜈蚣</h3><p>Scolopendra sp.</p></div>
-<div class="card"><span class="id">#34</span><img src="data/images/unique_34.jpg"><h3>台灣鞭蠍</h3><p>Typopeltis crucifer</p></div>
-<div class="card"><span class="id">#35</span><img src="data/images/unique_35.jpg"><h3>黑魔鬼竹節蟲</h3><p>Peruphasma schultei</p></div>
-<div class="card"><span class="id">#36</span><img src="data/images/unique_36.jpg"><h3>太陽花金龜</h3><p>Pachnoda marginata</p></div>
-<div class="card"><span class="id">#37</span><img src="data/images/unique_37.jpg"><h3>亞克提恩大兜蟲</h3><p>Megasoma actaeon</p></div>
-<div class="card"><span class="id">#38</span><img src="data/images/unique_38.jpg"><h3>烈陽巴布蜘蛛</h3><p>Pterinochilus murinus</p></div>
-<div class="card"><span class="id">#39</span><img src="data/images/unique_39.jpg"><h3>斑尾鞭蠍</h3><p>Damon diadema</p></div>
-<div class="card"><span class="id">#40</span><img src="data/images/unique_40.jpg"><h3>中/日大鍬形蟲</h3><p>Dorcus hopei</p></div>
-</div>
+    <h1>昆蟲圖片驗證 (31-40)</h1>
+    <div class="grid">
+        <div class="card"><span class="id">#31</span><img src="data/images/unique_31.jpg">
+            <h3>藍死路鐵甲蟲</h3>
+            <p>Asbolus verrucosus</p>
+        </div>
+        <div class="card"><span class="id">#32</span><img src="data/images/unique_32.jpg">
+            <h3>幽靈螳螂</h3>
+            <p>Phyllocrania paradoxa</p>
+        </div>
+        <div class="card"><span class="id">#33</span><img src="data/images/unique_33.jpg">
+            <h3>海南巨人蜈蚣</h3>
+            <p>Scolopendra sp.</p>
+        </div>
+        <div class="card"><span class="id">#34</span><img src="data/images/unique_34.jpg">
+            <h3>台灣鞭蠍</h3>
+            <p>Typopeltis crucifer</p>
+        </div>
+        <div class="card"><span class="id">#35</span><img src="data/images/unique_35.jpg">
+            <h3>黑魔鬼竹節蟲</h3>
+            <p>Peruphasma schultei</p>
+        </div>
+        <div class="card"><span class="id">#36</span><img src="data/images/unique_36.jpg">
+            <h3>太陽花金龜</h3>
+            <p>Pachnoda marginata</p>
+        </div>
+        <div class="card"><span class="id">#37</span><img src="data/images/unique_37.jpg">
+            <h3>亞克提恩大兜蟲</h3>
+            <p>Megasoma actaeon</p>
+        </div>
+        <div class="card"><span class="id">#38</span><img src="data/images/unique_38.jpg">
+            <h3>烈陽巴布蜘蛛</h3>
+            <p>Pterinochilus murinus</p>
+        </div>
+        <div class="card"><span class="id">#39</span><img src="data/images/unique_39.jpg">
+            <h3>斑尾鞭蠍</h3>
+            <p>Damon diadema</p>
+        </div>
+        <div class="card"><span class="id">#40</span><img src="data/images/unique_40.jpg">
+            <h3>中/日大鍬形蟲</h3>
+            <p>Dorcus hopei</p>
+        </div>
+    </div>
 
-<h1>昆蟲圖片驗證 (41-50)</h1>
-<div class="grid">
-<div class="card"><span class="id">#41</span><img src="data/images/unique_41.jpg"><h3>小鴨等足蟲</h3><p>Cubaris sp. 'Rubber Ducky'</p></div>
-<div class="card"><span class="id">#42</span><img src="data/images/unique_42.jpg"><h3>油彩粉紅趾蜘蛛</h3><p>Caribena versicolor</p></div>
-<div class="card"><span class="id">#43</span><img src="data/images/unique_43.jpg"><h3>馬來西亞扁竹節蟲</h3><p>Heteropteryx dilatata</p></div>
-<div class="card"><span class="id">#44</span><img src="data/images/unique_44.jpg"><h3>美西白兜蟲</h3><p>Dynastes granti</p></div>
-<div class="card"><span class="id">#45</span><img src="data/images/unique_45.jpg"><h3>多米諾蟑螂</h3><p>Therea petiveriana</p></div>
-<div class="card"><span class="id">#46</span><img src="data/images/unique_46.jpg"><h3>巨盾螳螂</h3><p>Rhombodera basalis</p></div>
-<div class="card"><span class="id">#47</span><img src="data/images/unique_47.jpg"><h3>犀牛蟑螂</h3><p>Macropanesthia rhinoceros</p></div>
-<div class="card"><span class="id">#48</span><img src="data/images/unique_48.jpg"><h3>台灣深山鍬形蟲</h3><p>Lucanus swinhoei</p></div>
-<div class="card"><span class="id">#49</span><img src="data/images/unique_49.jpg"><h3>巴西白膝頭蜘蛛</h3><p>Acanthoscurria geniculata</p></div>
-<div class="card"><span class="id">#50</span><img src="data/images/unique_50.jpg"><h3>大王花金龜</h3><p>Goliathus goliathus</p></div>
-</div>
+    <h1>昆蟲圖片驗證 (41-50)</h1>
+    <div class="grid">
+        <div class="card"><span class="id">#41</span><img src="data/images/unique_41.jpg">
+            <h3>小鴨等足蟲</h3>
+            <p>Cubaris sp. 'Rubber Ducky'</p>
+        </div>
+        <div class="card"><span class="id">#42</span><img src="data/images/unique_42.jpg">
+            <h3>油彩粉紅趾蜘蛛</h3>
+            <p>Caribena versicolor</p>
+        </div>
+        <div class="card"><span class="id">#43</span><img src="data/images/unique_43.jpg">
+            <h3>馬來西亞扁竹節蟲</h3>
+            <p>Heteropteryx dilatata</p>
+        </div>
+        <div class="card"><span class="id">#44</span><img src="data/images/unique_44.jpg">
+            <h3>美西白兜蟲</h3>
+            <p>Dynastes granti</p>
+        </div>
+        <div class="card"><span class="id">#45</span><img src="data/images/unique_45.jpg">
+            <h3>多米諾蟑螂</h3>
+            <p>Therea petiveriana</p>
+        </div>
+        <div class="card"><span class="id">#46</span><img src="data/images/unique_46.jpg">
+            <h3>巨盾螳螂</h3>
+            <p>Rhombodera basalis</p>
+        </div>
+        <div class="card"><span class="id">#47</span><img src="data/images/unique_47.jpg">
+            <h3>犀牛蟑螂</h3>
+            <p>Macropanesthia rhinoceros</p>
+        </div>
+        <div class="card"><span class="id">#48</span><img src="data/images/unique_48.jpg">
+            <h3>台灣深山鍬形蟲</h3>
+            <p>Lucanus swinhoei</p>
+        </div>
+        <div class="card"><span class="id">#49</span><img src="data/images/unique_49.jpg">
+            <h3>巴西白膝頭蜘蛛</h3>
+            <p>Acanthoscurria geniculata</p>
+        </div>
+        <div class="card"><span class="id">#50</span><img src="data/images/unique_50.jpg">
+            <h3>大王花金龜</h3>
+            <p>Goliathus goliathus</p>
+        </div>
+    </div>
 </body>
+
 </html>
